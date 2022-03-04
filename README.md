@@ -17,6 +17,8 @@ Let me introduce you about myself, my name is Zaid(Not Real); 17y.o from NCR(Del
 ## My Stats
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=ITZ-ZAID&show_icons=true&theme=radical)
 
+![ GitHub Second](https://github-readme-stats.vercel.app/api?username=Timesisnotwaiting&show_icons=true&theme=radical)
+
 [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ITZ-ZAID&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/ITZ-ZAID)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ITZ-ZAID)
