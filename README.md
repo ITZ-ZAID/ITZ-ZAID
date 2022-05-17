@@ -10,6 +10,10 @@ Let me introduce you about myself, my name is Zaid(Not Real); 17y.o from NCR(Del
 ![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 # Some Projects
+<a href="https://github.com/ITZ-ZAID/ZAID-USERBOT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=ZAID-USERBOT&cache_seconds=86400&theme=gotham">
+</a>
+
 
 <a href="https://github.com/Itz-Zaid/Zaid-Vc-Player">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-Zaid&repo=Zaid-Vc-Player&cache_seconds=86400&theme=gotham">
