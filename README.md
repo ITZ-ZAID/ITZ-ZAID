@@ -11,12 +11,12 @@ Let me introduce you about myself, my name is Zaid(Not Real); 17y.o from NCR(Del
 
 # Some Projects
 
-<a href="https://github.com/ITZ-ZAID/Telethon-Music">
+<a href="https://github.com/ITZ-ZAID/ZAID-USERBOT">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=ZAID-USERBOT&cache_seconds=86400&theme=gotham">
 </a>
 
-<a href="https://github.com/ITZ-ZAID/DEADLY-SPAMBOT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Godfatherakkii&repo=DEADLY-SPAMBOT&cache_seconds=86400&theme=gotham">
+<a href="https://github.com/ITZ-ZAID/Telethon-Music">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=Telethon-Music&cache_seconds=86400&theme=gotham">
 </a>
 
 
