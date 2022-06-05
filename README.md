@@ -35,7 +35,7 @@ Let me introduce you about myself, my name is Zaid(Not Real); 17y.o from NCR(Del
 <a href="https://github.com/Godfatherakkii/DEADLY-SPAMBOT">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Godfatherakkii&repo=DEADLY-SPAMBOT&cache_seconds=86400&theme=gotham">
 </a>
-
+#
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3rup7yx9jsh66gkpi0zbk38sj&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## How You Can Find Meh And Where!
