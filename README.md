@@ -38,10 +38,6 @@ Let me introduce you about myself, my name is Zaid(Not Real); 17y.o from NCR(Del
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-Zaid&repo=Banall&cache_seconds=86400&theme=gotham">
 </a>
 
-<a href="https://github.com/Godfatherakkii/DEADLY-SPAMBOT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Godfatherakkii&repo=DEADLY-SPAMBOT&cache_seconds=86400&theme=gotham">
-</a>
-
 ## How You Can Find Meh And Where!
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ITZ-ZAID)
